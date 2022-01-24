@@ -1,7 +1,6 @@
 #!/usr/bin/python3.10
 
 import os
-import time
 from pyperclip import paste
 
 home = os.path.expanduser('~')
